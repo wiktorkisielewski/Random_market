@@ -2,7 +2,7 @@
 An automated [and hypotheticaly profitable] trading bot operating on GOLD/USD futures contracts.
 
 # How it works?
-This bot trades on XAUUSD futures contracts, takes one trade at the time in a random direction.
+This bot trades on XAUUSD futures contracts,<br> takes one trade at the time in a random direction. <br> <br>
 It uses a trailing stop loss, which mean it will close a position only after the price of futures contract goes n % in a wrong/unwanted direction.
 This limits a pottential loss to n % of position, while leaving unlimited profit pottential.
 
